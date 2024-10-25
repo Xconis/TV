@@ -1,0 +1,7 @@
+🌊港·澳·台,#genre#
+翡翠台,https://github.com/Guovin/TV/blob/f1683d04aa7de0b65a94ffd8323f8b45dc3b18a6/config/demo.txt#L94
+凤凰香港,https://github.com/Guovin/TV/blob/f1683d04aa7de0b65a94ffd8323f8b45dc3b18a6/config/demo.txt#L98
+TVBS亚洲,https://github.com/Guovin/TV/blob/f1683d04aa7de0b65a94ffd8323f8b45dc3b18a6/config/demo.txt#L100
+🏀体育频道,#genre#
+广东体育,https://github.com/Guovin/TV/blob/f1683d04aa7de0b65a94ffd8323f8b45dc3b18a6/config/demo.txt#L194
+五星体育,https://github.com/Guovin/TV/blob/f1683d04aa7de0b65a94ffd8323f8b45dc3b18a6/config/demo.txt#L196
