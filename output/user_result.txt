@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-12 06:10:09,url
+2025-01-12 18:15:04,url
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40$1920x1080
 翡翠台,http://r.jdshipin.com/qClQf
@@ -34,6 +34,6 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 广东体育,http://120.77.205.62:8087/rtp/239.77.0.168:5146
 广东体育,http://120.77.205.62:8087/rtp/239.77.1.97:5146
 广东体育,https://php.17186.eu.org/gdtv/gdty.m3u8
-五星体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8$1920x1080
-五星体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$1920x1080
+五星体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8
+五星体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
